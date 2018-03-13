@@ -1,5 +1,5 @@
 # nagios-telegram-notification
-Nagios host and service notifications via Telegram bot
+Nagios host and service notifications via Telegram bot without installing any messy scripts.
 
 # Create a Telegram bot
 Message @BotFather in your Telegram app. Write down your bots access token, which is something like '53355511:AaFnF2Xnt1-RjGMaQZ_412tvp-_e12312KQ'. When using the token, you add 'bot' in-front of the token to complete it, turning the access token into 'bot53355511:AaFnF2Xnt1-RjGMaQZ_412tvp-_e12312KQ'.
